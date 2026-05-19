@@ -3,6 +3,9 @@
     "/Main": {
       "viewPath": "01MainView"
     },
+    "/admin": {
+      "viewPath": "dashboard"
+    },
     "/machineoverview": {
       "title": "",
       "viewPath": "MachineOverview"
