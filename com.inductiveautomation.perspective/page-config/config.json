@@ -1,0 +1,14 @@
+{
+  "pages": {
+    "/Main": {
+      "viewPath": "01MainView"
+    },
+    "/machineoverview": {
+      "title": "",
+      "viewPath": "MachineOverview"
+    }
+  },
+  "sharedDocks": {
+    "cornerPriority": "top-bottom"
+  }
+}
